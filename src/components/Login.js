@@ -2,7 +2,7 @@ import React from 'react';
 import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth';
 
 /* ライブラリ */
-import { firebase, auth, uiConfig } from "../lib/firebase";
+import { auth, uiConfig } from "../lib/firebase";
 
 function Login() {
   return (
